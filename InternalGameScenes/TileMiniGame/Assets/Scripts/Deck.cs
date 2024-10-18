@@ -30,7 +30,7 @@ public class Deck : MonoBehaviour
         {
 #if UNITY_EDITOR
             _ui.GetComponent<UI>().SetWinScreenState(true);
-            Debug.Log("All pairs found!!!");
+            Debug.Log("Game over All pairs found");
 #else
             Application.Quit();
 #endif
