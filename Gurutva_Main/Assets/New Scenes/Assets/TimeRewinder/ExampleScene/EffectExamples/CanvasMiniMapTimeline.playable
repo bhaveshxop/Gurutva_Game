@@ -61,15 +61,15 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 5.016666666666667
+    m_Start: 0.7000000000000005
     m_ClipIn: 0
     m_Asset: {fileID: -597201005082425300}
-    m_Duration: 6.466666666666666
+    m_Duration: 6.466666666666665
     m_TimeScale: 1
     m_ParentTrack: {fileID: -7160943958768330195}
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
-    m_BlendInDuration: 6.466666666666666
+    m_BlendInDuration: 6.466666666666665
     m_BlendOutDuration: -1
     m_MixInCurve:
       serializedVersion: 2
@@ -128,18 +128,18 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: CM vcam6
+    m_DisplayName: CM vcam3
   - m_Version: 1
-    m_Start: 3.1833333333333322
+    m_Start: 0
     m_ClipIn: 0
     m_Asset: {fileID: -7674433132219629561}
-    m_Duration: 8.3
+    m_Duration: 7.166666666666665
     m_TimeScale: 1
     m_ParentTrack: {fileID: -7160943958768330195}
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
     m_BlendInDuration: -1
-    m_BlendOutDuration: 6.466666666666666
+    m_BlendOutDuration: 6.466666666666665
     m_MixInCurve:
       serializedVersion: 2
       m_Curve:
@@ -197,7 +197,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: CM vcam5
+    m_DisplayName: CM vcam2
   m_Markers:
     m_Objects: []
 --- !u!114 &-597201005082425300
