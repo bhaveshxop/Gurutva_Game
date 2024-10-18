@@ -10,6 +10,7 @@ public class WaitForTime : MonoBehaviour
     public float JumpTime = 1f;
     public float thisTime2;
    // public GameObject grey;
+   //hello there
     private void Awake()
     {
         if(Instance==null)
